@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  Laureato in Informatica · studente di Cybersecurity · QA &amp; Testing
+  Laureato in Informatica · studente di Cybersecurity · 
 </p>
 
 <p align="center">
