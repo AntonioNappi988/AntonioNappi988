@@ -1,9 +1,4 @@
-
-<img width="600" height="200" alt="Hi 👋 I&#39;M ANTONIO-2" src="https://github.com/user-attachments/assets/f00764d2-2a3c-44a8-9b69-2d885cb5c0d3" />
-
-
-
-
+<img width="3172" height="796" alt="Banner LinkedIn-selection (3)" src="https://github.com/user-attachments/assets/2e5d883f-fbfb-4254-ac48-7bf52479d270" />
 <p align="center">
   Laureato in Informatica · studente di Cybersecurity · 
 </p>
@@ -16,29 +11,7 @@
 
 ---
 
-```
-antonio@nappi:~$ whoami
-```
 
-Prima le cucine professionali, oggi il codice. La disciplina viene da lì.
-Mi adatto in fretta a contesti complessi, reggo la pressione e imparo quello che serve.
-
-**Disponibile per nuove opportunità full-time** — remoto, ibrido o con trasferimento.
-
-### Esperienza
-
-`ott 2024 — gen 2025` **NEXSOFT S.p.A.** — Tirocinio QA
-Test plan, test case, bug report. Automazione API con Selenium, TestNG e Postman.
-
-`2022 — 2026` **Università degli Studi di Salerno** — Laurea in Informatica
-
-### Progetti
-
-- **[ChemoSmart](https://github.com/alessandro-bergamo/chemosmart)** — scheduling per appuntamenti chemioterapici · `JS` `Database`
-- **[ChemoSmart AI](https://github.com/ImCirot/ChemoSmart-AI)** — modulo AI e ottimizzazione degli slot · `Python` `scikit-learn`
-- **[SNACKZ](https://github.com/ImCirot/Progetto-TSW)** — e-commerce full-stack da zero · `Node.js` `MongoDB`
-
-<sub>Progetti universitari, dichiarati come tali.</sub>
 
 ### Stack
 
