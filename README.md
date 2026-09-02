@@ -2,9 +2,7 @@
 <img width="600" height="200" alt="Hi 👋 I&#39;M ANTONIO-2" src="https://github.com/user-attachments/assets/f00764d2-2a3c-44a8-9b69-2d885cb5c0d3" />
 
 
-<p align="center">
-  <img src="assets/banner.png" alt="Antonio Nappi — Informatica / Cybersecurity / QA &amp; Testing" width="100%">
-</p>
+
 
 <p align="center">
   Laureato in Informatica · studente di Cybersecurity · QA &amp; Testing
