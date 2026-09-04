@@ -17,16 +17,9 @@
 
 `Selenium` `TestNG` `Postman` `Playwright` · `Java` `Python` `JavaScript` `C` · `Node.js` `MongoDB` `MySQL` · `Linux` `Git`
 
-in apprendimento
-Rust
-Docker
-Kubernetes
-Terraform
-Ansible
-Linux internals
-CI/CD
-Bash scripting
----
+### Apprendimento/Learning
+`Rust` `Docker` `Kubernetes` `Terraform` `Ansible` `Linux internals` `CI/CD` `Bash scripting` 
+
 
 <p align="center">
   <b>Digitalizzo la tua attività</b> — siti, gestionali, ordini, automazioni.<br>
